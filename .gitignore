@@ -1,0 +1,19 @@
+# Dependencias
+node_modules/
+
+# Configuracion local
+.env
+.env.*
+!.env.example
+
+# Documentos de usuarios y archivos de prueba
+generated-documents/
+tmp-docx/
+__docx_tmp__/
+download-check.docx
+sample-template.docx
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
