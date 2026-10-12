@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: formulario-permiso-trabajo
-    runtime: docker
-    plan: free
-    dockerfilePath: ./Dockerfile
-    healthCheckPath: /

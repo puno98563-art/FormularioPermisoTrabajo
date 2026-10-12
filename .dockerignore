@@ -1,9 +1,0 @@
-.git
-.gitignore
-.dockerignore
-node_modules
-generated-documents
-tmp-docx
-__docx_tmp__
-download-check.docx
-sample-template.docx
